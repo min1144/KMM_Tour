@@ -1,0 +1,27 @@
+PODS:
+  - NMapsGeometry (1.0.1)
+  - NMapsMap (3.17.0):
+    - NMapsGeometry
+  - shared (1.0):
+    - NMapsMap
+
+DEPENDENCIES:
+  - shared (from `../shared`)
+
+SPEC REPOS:
+  trunk:
+    - NMapsGeometry
+    - NMapsMap
+
+EXTERNAL SOURCES:
+  shared:
+    :path: "../shared"
+
+SPEC CHECKSUMS:
+  NMapsGeometry: 53c573ead66466681cf123f99f698dc8071a4b83
+  NMapsMap: a5b909a31b6f3d27a670f6eb2ddc913c38975474
+  shared: dfdfa7e22525bef9e07be36f49f01b10c6e77b8c
+
+PODFILE CHECKSUM: da5fa0b244f0b167ae55942121f8e7b09d18166d
+
+COCOAPODS: 1.14.3

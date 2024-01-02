@@ -1,0 +1,8 @@
+//#include "../Pods/Target Support Files/Pods-iosApp/Pods-iosApp.debug.xcconfig"
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+DEBUG = YES
+NAVER_CLIENT_ID = xxxxxxx
+NAVER_CLIENT_SECRET = xxxxxxxxxxx

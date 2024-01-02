@@ -1,0 +1,86 @@
+[
+  {
+    "title": "빌딩명",
+    "placeHolder": "빌딩명 입력",
+    "require": false,
+    "enable": true,
+    "type": "BUILDING_NAME"
+  },
+  {
+    "title": "빌딩 유형",
+    "placeHolder": "",
+    "require": true,
+    "enable": true,
+    "type": "BUILDING_TYPE"
+  },
+  {
+    "title": "빌딩 세부 유형",
+    "placeHolder": "선택",
+    "require": false,
+    "enable": true,
+    "type": "BUILDING_DETAIL_TYPE"
+  },
+  {
+    "title": "임대 유형",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "RENTAL_TYPE"
+  },
+  {
+    "title": "건설 상태",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "CONSTRUCTION_STATUS"
+  },
+  {
+    "title": "분양유형",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "TYPE_OF_SALE"
+  },
+  {
+    "title": "층정보",
+    "placeHolder": "0",
+    "require": false,
+    "enable": true,
+    "type": "FLOOR_INFO"
+  },
+  {
+    "title": "리모델링 여부",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "REMODELING_STATUS"
+  },
+  {
+    "title": "주택형 사무실 여부",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "HOUSING_OFFICE_AVAILABILITY"
+  },
+  {
+    "title": "엘리베이터 상태",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "ELEVATOR_STATUS"
+  },
+  {
+    "title": "사용승인일",
+    "placeHolder": "YYYY.MM.DD",
+    "require": false,
+    "enable": true,
+    "type": "DATE_OF_APPROVAL_FOR_USE"
+  },
+  {
+    "title": "사용승인일확인여부",
+    "placeHolder": "",
+    "require": false,
+    "enable": true,
+    "type": "DATE_OF_APPROVAL_FOR_USE_STATUS"
+  }
+]

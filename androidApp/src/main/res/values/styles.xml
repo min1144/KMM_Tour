@@ -1,0 +1,10 @@
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar">
+        <!--statusbar 컬러가 밝은색(true)/어두운색(false)에 따라 글자 및 이모티콘 색상을 맞춰서 어둡게/밝게 변경 -->
+        <item name="android:windowLightStatusBar">true</item>
+        <!--statusbar 컬러를 투명으로 변경 -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <!--statusbar를 백그라운드 위에 그린다. statusbar 아래에 다른 뷰가 표시 될 수 있음. -->
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+</resources>

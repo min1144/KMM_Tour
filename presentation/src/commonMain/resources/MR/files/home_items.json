@@ -1,0 +1,26 @@
+{
+  "type": "Building",
+  "name": "빌딩 업무",
+  "items": [
+    {
+      "type": "CollectBuildingType",
+      "name": "빌딩유형 수집"
+    },
+    {
+      "type": "CollectContact",
+      "name": "연락처 수집"
+    },
+    {
+      "type": "MyWork",
+      "name": "업무처리 현황"
+    },
+    {
+      "type": "BuildingList",
+      "name": "빌딩 목록"
+    },
+    {
+      "type": "BuildingCreate",
+      "name": "빌딩 등록"
+    }
+  ]
+}

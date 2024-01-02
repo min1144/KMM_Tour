@@ -1,0 +1,16 @@
+{
+  "select": {
+    "code": "KR",
+    "name": "한국어"
+  },
+  "items": [
+    {
+      "code": "KR",
+      "name": "한국어"
+    },
+    {
+      "code": "EN",
+      "name": "ENGLISH"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>SERVER_ERROR_CONFIG</key>
+        <value>
+            {
+            "shouldShowServerErrorMessageAsDefault": false,
+            "errors": [
+            {
+            "path": "/blds",
+            "errorCode": "MSG000015",
+            "showServerErrorMessage": true
+            },
+            {
+            "path": "/blds/mob",
+            "errorCode": "MSG000016",
+            "showServerErrorMessage": true
+            }
+            ]
+            }
+        </value>
+    </entry>
+
+</defaultsMap>

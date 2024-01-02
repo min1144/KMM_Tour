@@ -1,0 +1,75 @@
+[
+  {
+    "title": "대표 주소",
+    "placeHolder": "주소",
+    "require": true,
+    "enable": true,
+    "type": "ADDRESS",
+    "length": {
+      "min": null,
+      "max": 1000
+    }
+  },
+  {
+    "title": "우편번호",
+    "placeHolder": "우편번호",
+    "require": false,
+    "enable": true,
+    "type": "POSTAL_CODE",
+    "length": {
+      "min": 2,
+      "max": 10
+    }
+  },
+  {
+    "title": "행정구역",
+    "placeHolder": "미지정",
+    "require": true,
+    "enable": true,
+    "type": "PLAN_AREA",
+    "length": null
+  },
+  {
+    "title": "x좌표",
+    "placeHolder": "13.7361935",
+    "require": true,
+    "enable": false,
+    "type": "X_COORDINATE",
+    "length": null
+  },
+  {
+    "title": "y좌표",
+    "placeHolder": "100.5394445",
+    "require": true,
+    "enable": false,
+    "type": "Y_COORDINATE",
+    "length": null
+  },
+  {
+    "title": "빌딩명",
+    "placeHolder": "빌딩명",
+    "require": false,
+    "enable": true,
+    "type": "BUILDING_NAME",
+    "length": {
+      "min": null,
+      "max": 100
+    }
+  },
+  {
+    "title": "빌딩 유형",
+    "placeHolder": "선택",
+    "require": true,
+    "enable": true,
+    "type": "BUILDING_TYPE",
+    "length": null
+  },
+  {
+    "title": "빌딩 세부 유형",
+    "placeHolder": "선택",
+    "require": false,
+    "enable": true,
+    "type": "BUILDING_DETAIL_TYPE",
+    "length": null
+  }
+]

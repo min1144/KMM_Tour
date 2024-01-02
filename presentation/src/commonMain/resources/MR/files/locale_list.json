@@ -1,0 +1,47 @@
+[
+  {
+    "code": "TH",
+    "name": "태국",
+    "languageCode": "th",
+    "location": {
+      "latitude": 13.731662996523854,
+      "longitude": 100.54077211463162
+    }
+  },
+  {
+    "code": "ID",
+    "name": "인도네시아",
+    "languageCode": "in",
+    "location": {
+      "latitude": -6.175039669370823,
+      "longitude": 106.82904162732034
+    }
+  },
+  {
+    "code": "MY",
+    "name": "말레이시아",
+    "languageCode": "ms",
+    "location": {
+      "latitude": 3.1581412508455617,
+      "longitude": 101.71196993691512
+    }
+  },
+  {
+    "code": "SG",
+    "name": "싱가포르",
+    "languageCode": "en",
+    "location": {
+      "latitude": 1.2838749600535446,
+      "longitude": 103.84797589131114
+    }
+  },
+  {
+    "code": "HK",
+    "name": "홍콩",
+    "languageCode": "zh",
+    "location": {
+      "latitude": 22.281957673385477,
+      "longitude": 114.15821216242854
+    }
+  }
+]
